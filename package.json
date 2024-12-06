@@ -10,7 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-
     "node-fetch": "^2.7.0",
     "proxy-agent": "^6.4.0",
     "uuid": "^9.0.1"
